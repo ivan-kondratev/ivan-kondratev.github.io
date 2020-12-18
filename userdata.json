@@ -1,0 +1,10 @@
+[
+    {
+        "Name" : "Иван",
+        "Avatar" : "",
+        "Level" : "15",
+        "FoodData": "Butter",
+        "FoodQuantity": "3",
+        "FoodPriceForOneItem": "45"
+    }
+]
