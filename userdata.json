@@ -1,7 +1,7 @@
 [
     {
         "Name" : "Иван",
-        "AvatarURL" : "",
+        "AvatarURL" : "https://raw.githubusercontent.com/ivan-kondratev/ivan-kondratev.github.io/master/Avatars/03236.jpg",
         "Level" : "15",
         "FoodData": "Butter",
         "FoodQuantity": "3",
