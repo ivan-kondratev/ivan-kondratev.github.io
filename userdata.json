@@ -3,7 +3,7 @@
         "Name" : "Иван",
         "AvatarURL" : "https://raw.githubusercontent.com/ivan-kondratev/ivan-kondratev.github.io/master/Avatars/03236.jpg",
         "Level" : "15",
-        "FoodData": "Butter",
+        "FoodData": "butter",
         "FoodQuantity": "3",
         "FoodPriceForOneItem": "45"
     }
